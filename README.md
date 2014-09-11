@@ -1,2 +1,21 @@
-2014-gulp
-=========
+# [現場で使えるgulp入門](https://app.codegrid.net/series/2014-gulp)
+
+[CodeGrid](http://www.codegrid.net/)の「[現場で使えるgulp入門](https://app.codegrid.net/series/2014-gulp)」の記事内で使用しているサンプルです。
+
+各サンプルの解説については上記記事をご確認ください。
+
+## 動作環境
+
+[gulp](http://gulpjs.com/)が導入済みの環境を対象としています。
+
+## サンプルの内容
+
+
+各ディレクトリのサンプルは以下のような仕様です。
+
+- `2` プラグインを使ったgulpのタスクの書き方
+
+
+## サンプルの使い方
+
+上記、記事を参照してください。
