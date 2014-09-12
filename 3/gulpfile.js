@@ -28,7 +28,7 @@ gulp.task('optimize', function() {
     .pipe(gulp.dest('css/'));
 });
 
-gulp.task('optimizeStylus', function() {
+gulp.task('stylusOptimize', function() {
   runSequence(
     'stylus',
     'optimize'
