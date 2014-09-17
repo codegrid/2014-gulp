@@ -8,7 +8,7 @@ var plumber = require('gulp-plumber');
 var notify = require('gulp-notify');
 
 function plumberWithNotify() {
-  return plumber({errorHandler: notify.onError("<%= error.message %>")})
+  return plumber({errorHandler: notify.onError("<%= error.message %>")});
 }
 
 gulp.task('stylus', function() {
