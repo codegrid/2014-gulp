@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var using = require('gulp-using');
+var useref = require('gulp-useref');
  
 gulp.task('build', function() {
   var assets = useref.assets()
